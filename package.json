@@ -1,0 +1,27 @@
+{
+  "name": "@leonetti/utils",
+  "version": "0.0.2",
+  "description": "utilities",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/AlexandreLeonetti/leonetti-first",
+  "repository": {
+    "url": "git+https://github.com/AlexandreLeonetti/leonetti-first.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "alex leonetti",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexandreLeonetti/leonetti-first/issues"
+  }
+}
