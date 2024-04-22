@@ -1,13 +1,13 @@
 {
   "name": "@leonetti/utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "utilities",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/AlexandreLeonetti/leonetti-first",
+  "homepage": "https://github.com/AlexandreLeonetti/utils",
   "repository": {
-    "url": "git+https://github.com/AlexandreLeonetti/leonetti-first.git"
+    "url": "git+https://github.com/AlexandreLeonetti/utils.git"
   },
   "scripts": {
     "build": "tsup"
@@ -22,6 +22,6 @@
     "typescript": "^5.4.5"
   },
   "bugs": {
-    "url": "https://github.com/AlexandreLeonetti/leonetti-first/issues"
+    "url": "https://github.com/AlexandreLeonetti/utils/issues"
   }
 }
